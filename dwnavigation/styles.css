@@ -1,0 +1,33 @@
+@charset "UTF-8";
+ul {
+    margin: 10;
+    padding: 0;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #9CC6CF;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    padding: 0;
+    text-align: center;
+    text-decoration: none;
+}
+body img {
+}
+div {
+    text-align: center;
+}
+lia:hover:not(.active) {
+    background-color: #111;
+}
+.active {
+    background-color: #B8E067;
+}
+Body {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif" 
+}
+
